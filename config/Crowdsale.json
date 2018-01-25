@@ -1,0 +1,18 @@
+{
+    "startTimestamp": 0,
+    "duration": 1000000,
+    "rate": 1000,
+    "goal": 2000,
+    "cap": 15400000,
+    "initialSupply": 28000000,
+    "owner": "0xe10b276dA763fBE0C1403db1c55f80f0A0741696",
+    "comment":{
+        "startTimestamp": "you must set the proper vlaue (unix timestamp)",
+        "duration": "crowdsale whole time (seconds)",
+        "rate": "token base rate",
+        "goal": "soft cap (ether)",
+        "cap": "hard cap (LABO)",
+        "initialSupply": "initial token whole supply",
+        "owner": "token owner address"
+    }
+}
